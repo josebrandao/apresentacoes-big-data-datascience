@@ -1,4 +1,4 @@
-# 📊 Apresentação: Business Intelligence & Analytics
+# 📊 Apresentação: Business Intelligence & Analytics/DataScience
 
 Esta apresentação aborda conceitos, ferramentas e casos de uso relacionados a **Business Intelligence (BI)** e **Analytics**, desde o planejamento até a geração de insights. O conteúdo foi desenvolvido para auxiliar na compreensão do poder dos dados e como eles podem ser utilizados para tomar decisões estratégicas em diferentes áreas.
 
